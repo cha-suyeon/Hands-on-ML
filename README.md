@@ -30,7 +30,7 @@ This Flipped School study is for people like this
 
 |No.|Date|Chapter|Topic|Posting|
 |:--:|--|:--:|--|--|
-|01|April 6, 2022|chapter 1,2|Machine Learning and Project||
+|01|April 6, 2022|chapter 1,2|Machine Learning and Project|[📃ch1](https://github.com/cha-suyeon/Hands-on-ML/blob/master/concept/01_machine_learning_concept.pdf), [📃ch2](https://github.com/cha-suyeon/Hands-on-ML/blob/master/concept/02_machine_learning_project_concept.pdf)|
 |02|April 13, 2022|chapter 3|Classification||
 |03|April 20, 2022|chapter 4|Model Training|[📃](https://velog.io/@cha-suyeon/%ED%95%B8%EC%A6%88%EC%98%A8%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-4%EC%9E%A5-%EB%AA%A8%EB%8D%B8-%ED%9B%88%EB%A0%A8)|
 |04|April 27, 20222|chapter 5|Support Vector Machine||
